@@ -10,6 +10,11 @@
 -  What I hate
 - someone doing pro websites in front of me
 
+- What I love
+To get contributions in github 
+To make pro websites
+
+
 <!---
 vedanthkante/vedanthkante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
