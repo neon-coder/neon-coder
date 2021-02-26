@@ -7,7 +7,8 @@
 -  hobbies- I like to code 
 -  with reverse engineering and laugh at their noob websites
 
- 
+-  What I hate
+- someone doing pro websites in front of me
 
 <!---
 vedanthkante/vedanthkante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
