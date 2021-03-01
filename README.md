@@ -8,11 +8,11 @@
 - 📫 How to reach me reach me at vedanth199321@outlook.com
 
 -  hobbies- I like to code 
--  with reverse engineering and laugh at their noob websites
+-  
 
 -  What I hate
-- someone doing pro websites in front of me
-
+- To become noob websites developer
+- my bro
 - What I love
 To get contributions in github 
 To make pro websites
