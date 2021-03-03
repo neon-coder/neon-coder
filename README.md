@@ -14,10 +14,9 @@
 - To become noob websites developer
 - my bro
 - What I love
-To get contributions in github 
-To make pro websites
-To make reverse engineering websites 🤣🤣
-
+- To get contributions in github 
+- To make pro websites
+- To become a pro web developer
 
 <!---
 vedanthkante/vedanthkante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
