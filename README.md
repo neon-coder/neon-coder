@@ -7,9 +7,8 @@
 - 💞️ I’m looking to collaborate on html and css
 - 📫 How to reach me reach me at vedanth199321@outlook.com
 
--  hobbies- I like to code 
--  
-
+-  hobbies-
+-  I like to code
 -  What I hate
 - To become noob websites developer
 - my bro
