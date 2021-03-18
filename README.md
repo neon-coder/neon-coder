@@ -8,14 +8,13 @@
 - 📫 How to reach me reach me at vedanth199321@outlook.com
 
 -  hobbies-
--  I like to code
+💻  I like to code
 
 -  What I hate
-- To become noob websites developer
-- my bro
+🌐 To become noob websites developer
 
 - What I love
-- To get contributions in github 
+✔ To get contributions in github 
 - 🌐 To make pro websites
 - 😎 To become a pro web developer
 - 🍫🍟chocolates and chips
