@@ -11,10 +11,10 @@
 💻  I like to code
 
 -  What I hate
-🌐 To become noob websites developer
+- 🌐 To become noob websites developer
 
 - What I love
-✔ To get contributions in github 
+- ✔ To get contributions in github 
 - 🌐 To make pro websites
 - 😎 To become a pro web developer
 - 🍫🍟chocolates and chips
