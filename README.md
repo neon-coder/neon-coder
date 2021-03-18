@@ -13,10 +13,13 @@
 -  What I hate
 - To become noob websites developer
 - my bro
+
 - What I love
 - To get contributions in github 
-- To make pro websites
-- To become a pro web developer
+🌐 To make pro websites
+😎 To become a pro web developer
+🍫🍟chocolates and chips
+⛏📍To play minecraft
 
 <!---
 vedanthkante/vedanthkante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
