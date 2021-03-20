@@ -1,7 +1,7 @@
 
 
 
-- 👋 Hi, I’m @vedanthkante
+- 👋 Hi all , My name is Vedanth Kante
 - 👀 I’m interested in html css python javascript
 - 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on html and css
