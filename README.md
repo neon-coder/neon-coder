@@ -2,15 +2,16 @@
 
 
 - 👋 Hi all , My name is Vedanth Kante
-- 👀 I’m interested in html css python javascript
-- 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on html and css
-- 📫 How to reach me reach me at vedanth199321@outlook.com
+- 👀 I’m interested in HTML, CSS, Javascript and Python
+- 🌱 I’m currently learning HTML and CSS
+- 💞️ I’m looking for collaborate on HTML and CSS
+- 📫 Reach me @ vedanth199321@outlook.com
 
--  hobbies-
+-  Hobbies-
 💻  I like to code
+ - 📰 I love to read newspaper comics
 
--  What I hate
+-  I Hate
 - 🌐 To become noob websites developer
 
 - What I love
