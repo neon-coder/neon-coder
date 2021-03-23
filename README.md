@@ -7,9 +7,10 @@
 - 💞️ I’m looking for collaborate on HTML and CSS
 - 📫 Reach me @ vedanth199321@outlook.com
 
--  Hobbies-
-💻  I like to code
- - 📰 I love to read newspaper comics
+-  Hobbies
+-  💻 To code
+-  📰 To read newspaper comics
+-   👨🏻‍💻   To learn all the programming languages in th world
 
 -  I Hate
 - 🌐 To become noob websites developer
