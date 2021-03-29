@@ -7,6 +7,12 @@
 - 💞️ I’m looking for collaborate on HTML and CSS
 - 📫 Reach me @ vedanth199321@outlook.com
 
+- languages Known
+- 5️⃣ html
+- 3️⃣ css
+- 🟨 javascript (learning)
+- 🐍 python (learning)
+
 -  Hobbies
 -  💻 To code
 -  📰 To read newspaper comics
