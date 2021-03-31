@@ -28,6 +28,16 @@
 - 🍫🍟chocolates and chips
 - ⛏📍To play minecraft
 
+- repostories made by me 
+- ![readme](https://user-images.githubusercontent.com/79017098/113131487-ea348100-923a-11eb-8fb5-c15d294078bb.png)
+- ![website](https://user-images.githubusercontent.com/79017098/113131489-eb65ae00-923a-11eb-912f-6d001446be6b.png)
+- ![python asker](https://user-images.githubusercontent.com/79017098/113131491-eb65ae00-923a-11eb-9c9c-a9c616e21920.png)
+- ![python calculator](https://user-images.githubusercontent.com/79017098/113131493-ebfe4480-923a-11eb-883e-23b3c76cabb4.png)
+
+
+
+
+
 <!---
 vedanthkante/vedanthkante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
