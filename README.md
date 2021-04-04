@@ -28,7 +28,7 @@
 - 🍫🍟chocolates and chips
 - ⛏📍To play minecraft
 
-- repostories made by me 
+- I have 6 repostories made by me 
 - ![readme](https://user-images.githubusercontent.com/79017098/113131487-ea348100-923a-11eb-8fb5-c15d294078bb.png)
 - ![website](https://user-images.githubusercontent.com/79017098/113131489-eb65ae00-923a-11eb-912f-6d001446be6b.png)
 - ![python asker](https://user-images.githubusercontent.com/79017098/113131491-eb65ae00-923a-11eb-9c9c-a9c616e21920.png)
