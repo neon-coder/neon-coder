@@ -6,7 +6,7 @@
 - 👀 I’m interested in HTML, CSS, Javascript and Python
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking for collaborate on HTML and CSS
-- 📫 Reach me @ vedanth199321@outlook.com
+- 📫 contact me @ vedanth199321@outlook.com
 
 - languages Known
 - 5️⃣ html
