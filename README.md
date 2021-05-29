@@ -18,7 +18,7 @@
 -  I Hate
 - 🌐 To become noob websites developer
 
-- # What I love
+# What I love
 - ✔ To get contributions in github 
 - 🌐 To make pro websites
 - 😎 To become a pro web developer
