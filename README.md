@@ -4,18 +4,19 @@
 - 💞️ I’m looking for collaborate on HTML and CSS
 - 📫 contact me @ vedanth199321@outlook.com
 
-- languages Known
+# languages Known
 - 5️⃣ html
 - 3️⃣ css
 - 🟨 javascript (learning)
 - 🐍 python (learning)
 
--  Hobbies
+# Hobbies
 -  💻 To code
 -  📰 To read newspaper comics
--   👨🏻‍💻   To learn all the programming languages in th world
+-  📄 origmami
+-  👨🏻‍💻 To learn all the programming languages in th world
 
--  I Hate
+# I Hate
 - 🌐 To become noob websites developer
 
 # What I love
@@ -25,7 +26,12 @@
 - 🍫🍟chocolates and chips
 - ⛏📍To play minecraft
 
-- I have 6 repostories made by me 
+- you can understand this if you are a python programmar
+- a = "respect"
+- print("I don't give " +a " and I don't need " +a "too")
+- I don't give respect and I don't need respect too
+
+# repositories
 - ![readme](https://user-images.githubusercontent.com/79017098/113131487-ea348100-923a-11eb-8fb5-c15d294078bb.png)
 - ![website](https://user-images.githubusercontent.com/79017098/113131489-eb65ae00-923a-11eb-912f-6d001446be6b.png)
 - ![python asker](https://user-images.githubusercontent.com/79017098/113131491-eb65ae00-923a-11eb-9c9c-a9c616e21920.png)
