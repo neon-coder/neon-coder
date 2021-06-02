@@ -1,4 +1,4 @@
-- 👋 Hi all , My name is Vedanth Kante username:(neon coder)
+ - 👋 Hi all , My name is Vedanth Kante username:(neon coder)
 - 👀 I’m interested in HTML, CSS, Javascript and Python
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking for collaborate on HTML and CSS
@@ -14,10 +14,10 @@
 -  💻 To code
 -  📰 To read newspaper comics
 -  📄 origmami
--  👨🏻‍💻 To learn all the programming languages in th world
+-  👨🏻‍💻 To learn all the programming languages in the world
 
 # I Hate
-- 🌐 To become noob websites developer
+- 🌐 To become a noob website developer
 
 # What I love
 - ✔ To get contributions in github 
@@ -28,7 +28,7 @@
 
 - you can understand this if you are a python programmar
 - a = "respect"
-- print("I don't give " +a " and I don't need " +a "too")
+- print("I don't give " + a + " and I don't need " + a + " too")
 - I don't give respect and I don't need respect too
 
 
