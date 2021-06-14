@@ -4,22 +4,22 @@
 - 💞️ I’m looking for collaborate on HTML and CSS
 - 📫 contact me @ vedanth199321@outlook.com
 
-# languages Known
+### languages Known
 - 5️⃣ html
 - 3️⃣ css
 - 🟨 javascript (learning)
 - 🐍 python (learning)
 
-# Hobbies
+### Hobbies
 -  💻 To code
 -  📰 To read newspaper comics
 -  📄 origmami
 -  👨🏻‍💻 To learn all the programming languages in the world
 
-# I Hate
+### I Hate
 - 🌐 To become a noob website developer
 
-# What I love
+### What I love
 - ✔ To get contributions in github 
 - 🌐 To make pro websites
 - 😎 To become a pro web developer
