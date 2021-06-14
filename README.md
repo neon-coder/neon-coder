@@ -4,7 +4,7 @@
 - 💞️ I’m looking for collaborate on HTML and CSS
 - 📫 contact me @ vedanth199321@outlook.com
 
-### languages Known
+### Languages Known
 - 5️⃣ html
 - 3️⃣ css
 - 🟨 javascript (learning)
