@@ -26,10 +26,10 @@
 - 🍫🍟chocolates and chips
 - ⛏📍To play minecraft
 
-- you can understand this if you are a python programmar
+### You can understand this if you are a python programmar
 - a = "respect"
 - print("I don't give " + a + " and I don't need " + a + " too")
-- I don't give respect and I don't need respect too
+-  people who don't know this can also run in a code runner
 
 ### My profile views
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=red)
