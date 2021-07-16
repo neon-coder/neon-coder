@@ -14,12 +14,11 @@
 -  💻 To code
 -  📰 To read newspaper comics
 -  📄 origmami
--  👨🏻‍💻 To learn all the programming languages in the world
 
 ### Aims
 -  👨🏻‍💻 To learn all the programming languages in the world
--  To become an assassin gamer
--  To become a famous scientist
+-  💻 To become an assassin gamer
+-  👨‍🔬 To become a famous scientist
 
 ### I Hate
 - 🌐 To become a noob website developer
