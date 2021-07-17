@@ -38,10 +38,11 @@
 ### My profile views
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=red)
 
-
+### Languages used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neon-coder)](https://github.com/neon-coder/neon-coder)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=neon-coder&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+### Stats
+![Vedanth K's GitHub stats](https://github-readme-stats.vercel.app/api/?username=neon-coder&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
 
