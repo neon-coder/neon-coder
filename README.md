@@ -50,6 +50,8 @@
 
 ### Trophies(not much)
 https://github-profile-trophy.vercel.app/?username=neon-coder&theme=darkhub
+https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S
+
 
 
 
