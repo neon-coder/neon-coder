@@ -1,7 +1,7 @@
  - 👋 Hi all , My name is Vedanth Kante username:(neon coder)
 - 👀 I’m interested in HTML, CSS, Javascript and Python
 - 🌱 I’m currently learning PY and JS
-- 💞️ I’m looking for collaborate on HTML and CSS
+- 💞️ I’m looking for collaborate on PY and JS
 - 📫 contact me @ vedanth199321@outlook.com
 
 ### Languages Known
@@ -14,11 +14,12 @@
 -  💻 To code
 -  📰 To read newspaper comics
 -  📄 origmami
+-  ⏹ Rubik's cube
 
 ### Aims
--  👨🏻‍💻 To learn all the programming languages in the world
+-  👨🏻‍💻 To learn all the programming languages (PY, JS, HTML, CSS)
 -  💻 To become an assassin gamer
--  👨‍🔬 To become a famous scientist
+-  👨‍🔬 To become a scientist
 
 ### I Hate
 - 🌐 To become a noob website developer
@@ -32,7 +33,8 @@
 
 ### You can understand this if you are a python programmar
 - a = "respect"
-- print("I don't give " + a + " and I don't need " + a + " too")
+- b = it
+- print("I don't give " + a + " and I don't need " + b + " too")
 -  people who don't know this can also run in a code runner
 
 ### My profile views
@@ -46,7 +48,7 @@
 
 
 ### Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neon-coder&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neon-coder&theme=light)](https://git.io/streak-stats)
 
 ### Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=neon-coder)
