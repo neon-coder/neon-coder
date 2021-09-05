@@ -1,6 +1,6 @@
  - 👋 Hi all , My name is Vedanth Kante username:(neon coder)
 - 👀 I’m interested in HTML, CSS, Javascript and Python
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning PY and JS
 - 💞️ I’m looking for collaborate on HTML and CSS
 - 📫 contact me @ vedanth199321@outlook.com
 
