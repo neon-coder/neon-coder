@@ -1,15 +1,12 @@
-- 👋 Hi all , My name is Vedanth Kante username:(neon coder)
+- 👋 Hi all , My name is Vedanth username:(neon coder)
 - 👀 I’m interested in HTML, CSS, Javascript and Python
 - 🌱 I’m currently learning PY and JS
 - 💞️ I’m looking for collaborate on PY and JS
 - 📫 contact me @ vedanth199321@outlook.com
 
 ### Languages Known -
-- 5️⃣ html
-- 3️⃣ css
-- 🟨 javascript (learning)
-- 🐍 python (learning)
-
+- Idk Anything😅😅
+- 
 ### Hobbies -
 -  💻 To code
 -  📰 To read newspaper comics
@@ -18,7 +15,6 @@
 
 ### Aims -
 -  👨🏻‍💻 To learn all the programming languages (PY, JS, HTML, CSS)
--  💻 To become an assassin gamer
 -  👨‍🔬 To become a scientist
 
 ### I Hate -
