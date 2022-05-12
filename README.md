@@ -29,7 +29,7 @@
 
 ### You can understand this if you are a python programmar -
 - a = "respect"
-- b = it
+- b = "it"
 - print("I don't give " + a + " and I don't need " + b + " too")
 -  people who don't know this can also run in a code runner
 
