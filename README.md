@@ -1,11 +1,11 @@
 - 👋 Hi all , My name is Vedanth username:(neon coder)
-- 👀 I’m interested in HTML, CSS, Javascript and Python
-- 🌱 I’m currently learning PY and JS
-- 💞️ I’m looking for collaborate on PY and JS
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning PY
+- 💞️ I’m looking for collaborate on PY
 - 📫 contact me @ vedanth199321@outlook.com
 
 ### Languages Known -
-- Idk Anything😅😅
+- still learning
 - 
 ### Hobbies -
 -  💻 To code
@@ -15,14 +15,14 @@
 
 ### Aims -
 -  👨🏻‍💻 To learn all the programming languages (PY, JS, HTML, CSS)
--  👨‍🔬 To become a scientist
+-  👨‍🔬 To become a robotic scientist
 
 ### I Hate -
 - 🌐 To become a noob website developer
 
 ### What I love -
 - ✔ To get contributions in github 
-- 🌐 To make pro websites
+- to make nice python repositories
 - 😎 To become a pro web developer
 - 🍫🍟chocolates and chips
 - ⛏📍To play minecraft
@@ -31,7 +31,7 @@
 - a = "respect"
 - b = "it"
 - print("I don't give " + a + " and I don't need " + b + " too")
--  people who don't know this can also run in a code runner
+-  people who don't know this can also run it in a code runner
 
 ### My profile views -
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=red)
